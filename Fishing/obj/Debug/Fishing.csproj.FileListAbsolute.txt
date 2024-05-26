@@ -1,0 +1,20 @@
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing\bin\Debug\Fishing.exe.config
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing\bin\Debug\Fishing.exe
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing\bin\Debug\Fishing.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing\obj\Debug\Fishing.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing\obj\Debug\Fishing.Form1.resources
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing\obj\Debug\Fishing.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing\obj\Debug\Fishing.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing\obj\Debug\Fishing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing\obj\Debug\Fishing.exe
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing\obj\Debug\Fishing.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing — копия\obj\Debug\Fishing.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing — копия\obj\Debug\Fishing.Form1.resources
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing — копия\obj\Debug\Fishing.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing — копия\obj\Debug\Fishing.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing — копия\obj\Debug\Fishing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing — копия\obj\Debug\Fishing.exe
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing — копия\obj\Debug\Fishing.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing — копия\bin\Debug\Fishing.exe.config
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing — копия\bin\Debug\Fishing.exe
+C:\Users\Admin\OneDrive\Рабочий стол\Fishing — копия\bin\Debug\Fishing.pdb
